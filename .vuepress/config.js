@@ -1,7 +1,6 @@
 module.exports = {
   title: 'Hello _i418',
   description: 'Just playing around',
-  base: '/github-pages/',
   dest: 'docs',
   locales: {
     '/': {
